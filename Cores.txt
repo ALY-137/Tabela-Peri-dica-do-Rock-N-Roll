@@ -1,0 +1,17 @@
+Cores:
+
+O Rei do Rock: 460002
+
+Geniais: 861006
+
+Os Clássicos: a93d33
+
+Alternativo: d37a02
+
+Heavy/Hard: 2f8361
+
+Integrantes: 016e83
+
+O Punk: 772766
+
+Rock Nacional: 69890c
